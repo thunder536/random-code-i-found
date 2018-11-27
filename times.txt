@@ -1,0 +1,4 @@
+echo.
+echo Waiting For ten seconds... 
+TIMEOUT /T 10 /NOBREAK
+call D:\ memes.bat
